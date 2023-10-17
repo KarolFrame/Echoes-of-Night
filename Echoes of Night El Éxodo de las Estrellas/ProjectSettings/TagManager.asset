@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Oxigeno
+  - Polvo
+  - ColiderLuz
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 3402866247
+    locked: 0
+  - name: ParedYSuelo
+    uniqueID: 1077458093
+    locked: 0
+  - name: EnemigoOscuro
+    uniqueID: 3100866841
+    locked: 0
+  - name: Enemigo
+    uniqueID: 512149193
+    locked: 0
+  - name: Jugador
+    uniqueID: 338957051
+    locked: 0
+  - name: Postpo
+    uniqueID: 3907591833
+    locked: 0
